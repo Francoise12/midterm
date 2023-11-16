@@ -1,0 +1,35 @@
+.s1
+{
+    font-size: 30px;
+    color: purple;
+    text-align: center;
+    font-weight: bold;
+}
+.s2
+{
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+.s3
+{
+    font-size: 30px;
+    color: blue;
+    text-align: left;
+    font-weight: bold;
+}
+.s4
+{
+    font-size: 30px;
+    color: brown;
+    text-align: left;
+    font-weight: bold;
+}
+.s5
+{
+    font-size: 30px;
+    color: purple;
+    text-align: left;
+    font-weight: bold;
+}
